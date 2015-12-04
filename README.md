@@ -20,6 +20,7 @@ No trailing whitespace allowed. Clean up after yourself.
 
 ### C/CPP
 
+[Detailed guide](https://github.com/in-silico/Contribution-guide/blob/master/SG-CPP.md)
 
 ## Contribution Workflow.
 
