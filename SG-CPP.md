@@ -1,19 +1,5 @@
 # C++ style guide
 
-## Basics
-
-### Spaces or tabs.
-
-Use two spaces to indent, no tabs.
-
-### Line lenght
-
-**80**  characters max.
-
-### Whitespace
-
-No trailing whitespace allowed. Clean up after yourself.
-
 ### Brackets
 
 Place opening brackets on the same line as the statement.
