@@ -18,9 +18,9 @@ Use two spaces to indent, no tabs.
 
 No trailing whitespace allowed. Clean up after yourself.
 
-### C/CPP
+### Detailed Guides 
 
-[Detailed guide](https://github.com/in-silico/Contribution-guide/blob/master/SG-CPP.md)
+[C/CPP](https://github.com/in-silico/Contribution-guide/blob/master/SG-CPP.md)
 
 ## Contribution Workflow.
 
