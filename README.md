@@ -20,8 +20,8 @@ No trailing whitespace allowed. Clean up after yourself.
 
 ### Detailed Guides 
 
-[C/CPP](https://github.com/in-silico/Contribution-guide/blob/master/SG-CPP.md)
-[HTML/CSS](https://github.com/in-silico/Contribution-guide/blob/master/SG-HTML_CSS.md)
+- [C/CPP](https://github.com/in-silico/Contribution-guide/blob/master/SG-CPP.md)
+- [HTML/CSS](https://github.com/in-silico/Contribution-guide/blob/master/SG-HTML_CSS.md)
 
 ## Contribution Workflow.
 
